@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "apaTables"]
+	path = apaTables
+	url = https://github.com/dstanley4/apatables
+	shallow = true
+	registered = true
