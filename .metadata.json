@@ -2,5 +2,13 @@
   {
     "package": "apaTables",
     "oncran": true
+  },
+  {
+    "package": "apaText",
+    "oncran": true
+  },
+  {
+    "package": "predictionInterval",
+    "oncran": true
   }
 ]

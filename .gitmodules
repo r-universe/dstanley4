@@ -8,3 +8,13 @@
 	url = https://github.com/dstanley4/apatables
 	shallow = true
 	registered = true
+[submodule "apaText"]
+	path = apaText
+	url = https://github.com/dstanley4/apatext
+	shallow = true
+	registered = true
+[submodule "predictionInterval"]
+	path = predictionInterval
+	url = https://github.com/dstanley4/predictioninterval
+	shallow = true
+	registered = true
