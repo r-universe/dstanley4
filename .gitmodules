@@ -18,3 +18,8 @@
 	url = https://github.com/dstanley4/predictioninterval
 	shallow = true
 	registered = true
+[submodule "replicationInterval"]
+	path = replicationInterval
+	url = https://github.com/cran/replicationInterval
+	shallow = true
+	registered = true
